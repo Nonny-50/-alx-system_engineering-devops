@@ -1,1 +1,1 @@
-a script that changes the working directory to home directory
+a script that creates a directory named my_first_directory
