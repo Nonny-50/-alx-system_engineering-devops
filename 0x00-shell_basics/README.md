@@ -1,1 +1,1 @@
-create a script that copies files
+create symbolic link
