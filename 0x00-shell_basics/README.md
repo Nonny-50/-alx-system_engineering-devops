@@ -1,1 +1,1 @@
-a script that moves all files
+create a symbolic link
