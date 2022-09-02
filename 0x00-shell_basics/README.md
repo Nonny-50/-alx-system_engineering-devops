@@ -1,1 +1,1 @@
-create a symbolic link
+create a list
