@@ -1,1 +1,1 @@
-create symbolic link
+Create a script that deletes all files
