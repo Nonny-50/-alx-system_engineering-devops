@@ -1,1 +1,1 @@
-create a magic file
+ a script that lists all files
